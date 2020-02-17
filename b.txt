@@ -1,1 +1,1 @@
-this is b.txt and save
+แก้ไขไฟล์ b.txt บรรทัดแรก
