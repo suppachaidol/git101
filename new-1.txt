@@ -1,2 +1,3 @@
 create file new-1.txt by user2
+แทรกข้อความที่แตกต่าง
 and save
